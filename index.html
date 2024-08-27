@@ -78,7 +78,7 @@
                         class="text-primary-clr">'</span>s</p>
             </div>
             <div class="navbar-center hidden lg:flex">
-                <ul class="menu menu-horizontal px-1">
+                <ul class="menu menu-horizontal px-1 text-xl">
                     <li><a class="text-primary-clr">Home</a></li>
                     <li><a>About</a></li>
                     <li><a>Page</a></li>
@@ -86,10 +86,53 @@
                 </ul>
             </div>
             <div class="navbar-end">
-                <i class="fa-solid fa-magnifying-glass mr-4 "></i>
+                <a><i class="fa-solid fa-magnifying-glass mr-4 "></i></a>
                 <a class="btn bg-primary-clr text-xl text-white">Get Ticket</a>
             </div>
         </div>
+
+        <!-- Banner section -->
+        <section class="my-12">
+            <div class="carousel  w-full border-4 border-dashed border-[#001318] border-opacity-20">
+                <div id="slide1" class="carousel-item relative w-full">
+                    <img src="/Images/1.png" class="w-full" />
+                    <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
+                        <a href="#slide3" class="btn btn-circle">❮</a>
+                        <a href="#slide2" class="btn btn-circle">❯</a>
+                    </div>
+                </div>
+                <div id="slide2" class="carousel-item relative w-full">
+                    <img src="/Images/2.png" class="w-full" />
+                    <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
+                        <a href="#slide1" class="btn btn-circle">❮</a>
+                        <a href="#slide3" class="btn btn-circle">❯</a>
+                    </div>
+                </div>
+                <div id="slide3" class="carousel-item relative w-full">
+                    <img src="/Images/3.png" class="w-full" />
+                    <div class="absolute left-5 right-5 top-1/2 flex -translate-y-1/2 transform justify-between">
+                        <a href="#slide2" class="btn btn-circle">❮</a>
+                        <a href="#slide1" class="btn btn-circle">❯</a>
+                    </div>
+                </div>
+
+
+
+            </div>
+            <!-- meet badge -->
+            <div class="h-[165px] text-center mx-2 mt-4 px-4 rounded-2xl flex items-center justify-center bg-[#131318] relative  lg:left-[900px] lg:bottom-56  lg:w-[566px] ">
+                <div class="space-y-4">
+                    <h1 class="text-white manrope text-2xl font-bold">Meet all the heroes from the field</h1>
+                    <p class="text-white opacity-60">
+                        Dit amet consectetur. Condimentum dignissim adipiscing aliquam
+                        <br>turpis placerat dolor. Purus urna in
+                        sit nullam proin.
+                    </p>
+                </div>
+            </div>
+
+        </section>
+
 
     </header>
 
