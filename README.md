@@ -5,9 +5,6 @@ A clean, responsive static website built using **HTML**, **Tailwind CSS**, and *
 ## 🌐 Live Site
 🔗 [Visit Website](https://hokey-s.netlify.app)
 
-## 💻 Source Code
-📂 [GitHub Repository](https://github.com/your-username/hokey-s)
-
 ## 💡 About the Project
 
 **Hokey S** is a static, minimalistic website built to sharpen my **UI/UX design** skills and explore modern frontend styling using utility classes and component-based tools.
