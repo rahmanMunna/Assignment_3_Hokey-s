@@ -2,9 +2,9 @@
 I just built a clean, responsive website using HTML, Tailwind CSS, and DaisyUI – no JavaScript, no frameworks, just pure frontend layout and component styling.
 
 🌐 Live Site:
- 🔗 https://lnkd.in/g6Guzniu
+🔗 https://lnkd.in/g6Guzniu
 
-💡 About the Project:
+💡About the Project:
 Hokey S is a static, minimalistic website built to sharpen my UI/UX skills and explore modern frontend styling using utility classes and pre-built components.
 
 🛠️ Built With:
